@@ -6,7 +6,7 @@ Live App:  https://sales-forecasting-two.vercel.app/
 
 ![alt text](https://github.com/ravenfire24/sales-forecasting/blob/main/forcast.PNG)
 
-```
+
 ##  Features
 
 -  Upload your own CSV file
