@@ -1,6 +1,6 @@
 # SalesCast 
 
-SalesCast is a simple sales forecasting dashboard that analyzes sales data, shows key trends and metrics, and predicts future sales to help understand sales performance.
+SalesCast is a sales forecasting dashboard that analyzes historical sales data, visualizes key performance trends and metrics, and generates forecasts to help businesses understand sales performance and plan ahead.
 
 Live App:  https://sales-forecasting-two.vercel.app/
 
