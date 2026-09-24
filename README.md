@@ -13,6 +13,8 @@ Live App:  https://sales-forecasting-two.vercel.app/
 -  Choose a forecast period
 -  View forecast results in a simple dashboard
 -  Responsive and user-friendly interface
+  
+![alt text](https://github.com/ravenfire24/sales-forecasting/blob/main/forcast.PNG)
 
 ## Dataset
 
