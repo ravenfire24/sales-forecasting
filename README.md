@@ -1,24 +1,57 @@
-# SalesCast — Sales Forecasting Dashboard
+# SalesCast 
 
-A resume-ready sales forecasting portfolio project built with Next.js and React.
+SalesCast is a simple sales forecasting dashboard that analyzes sales data, shows key trends and metrics, and predicts future sales to help understand sales performance.
 
-## What it does
-- Uploads a CSV with `Date` + `Sales` columns
-- Calculates historical KPIs
-- Generates 7/30/60/90-day projections
-- Visualizes actual vs forecast values
-- Runs forecasting in the browser, so there is no server-side ML dependency
+##  Features
 
-## Kaggle dataset
-Recommended source: [Superstore Sales Dataset](https://www.kaggle.com/datasets/himanshuuike/superstore-sales-dataset). It contains 10,000+ retail records with sales, profit, discount, product, date, region, and customer information.
+-  Upload your own CSV file
+-  View total sales and key metrics
+-  Explore historical sales trends
+-  Forecast future sales
+-  Choose a forecast period
+-  View forecast results in a simple dashboard
+-  Responsive and user-friendly interface
 
-For a production version, export the Kaggle CSV and upload it through the dashboard.
+## Dataset
 
-## Run locally
+You can use the **Superstore Sales Dataset** from Kaggle to test the application.
+
+🔗 [Superstore Sales Dataset on Kaggle](https://www.kaggle.com/datasets/himanshuuike/superstore-sales-dataset)
+
+The dataset contains 10,000+ retail records with information including:
+
+- Sales
+- Profit
+- Discount
+- Products
+- Dates
+- Regions
+- Customers
+
+##  Tech Stack
+
+- **Next.js**
+- **React**
+- **TypeScript**
+- **Tailwind CSS**
+- **Recharts**
+
+##  Getting Started
+
+### 1. Clone the repository
 ```bash
-npm install
+git clone https://github.com/ravenfire24/sales-forecasting.git && cd sales-forecasting
+```
+### 2. Install dependencies
+```bash
+npm  install
+```
+### 3. Start the development server
+```bash
 npm run dev
 ```
+Open your browser and visit:
+````
+http://localhost:3000
 
-## Deploy
-This app is designed for Vercel and uses the Next.js App Router.
+
